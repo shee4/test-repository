@@ -1,5 +1,5 @@
-WriteLine ("Hello World!")
-WriteLine ("Surprise Motherfucker")
-WriteLine ("another move")
-WriteLine ("faster stronger")
-WriteLine ("goddam")
+WriteLine ("Hello World!");
+WriteLine ("Surprise Motherfucker");
+WriteLine ("another move");
+WriteLine ("faster stronger");
+WriteLine ("goddam");
