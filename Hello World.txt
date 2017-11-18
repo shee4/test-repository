@@ -3,3 +3,4 @@ WriteLine ("Surprise Motherfucker");
 WriteLine ("another move");
 WriteLine ("faster stronger");
 WriteLine ("goddam");
+WriteLine ("omagad dis is not freedom!?")
