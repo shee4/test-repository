@@ -1,3 +1,5 @@
 WriteLine ("Hello World!");
 WriteLine ("Surprise Motherfucker");
 WriteLine ("another move");
+WriteLine ("faster stronger");
+WriteLine ("goddam");
