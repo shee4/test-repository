@@ -1,0 +1,2 @@
+WriteLine ("smartgit testing")
+WriteLine ("go go power rangers")
